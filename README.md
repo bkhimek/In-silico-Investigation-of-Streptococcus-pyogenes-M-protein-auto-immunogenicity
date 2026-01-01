@@ -1,4 +1,4 @@
-# Hi, I’m Krzysztof 👋
+# Hi, I’m Krzysztof 
 
 I’m a molecular diagnostics scientist with a strong interest in **computational biology, immunology, and protein-level analysis**.
 
@@ -61,8 +61,8 @@ can be combined to generate testable hypotheses.
 
 Extended background and step-by-step explanations are available in the `docs/` folder:
 
-- [Conceptual overview and biological context](docs/CONCEPTUAL_REPORT.md)
-- [Step-by-step technical workflow](docs/TECHNICAL_WORKFLOW.md)
+- [Conceptual overview and biological context](docs/CONCEPTUAL_REPORT.docx)
+- [Step-by-step technical workflow](docs/TECHNICAL_WORKFLOW.docx)
 
 - ## 📫 Contact
 
