@@ -57,6 +57,13 @@ can be combined to generate testable hypotheses.
 - Bioinformatics & in-silico analysis
 - Experience translating biological questions into computational workflows
 
+## Detailed documentation
+
+Extended background and step-by-step explanations are available in the `docs/` folder:
+
+- [Conceptual overview and biological context](docs/CONCEPTUAL_REPORT.md)
+- [Step-by-step technical workflow](docs/TECHNICAL_WORKFLOW.md)
+
 - ## 📫 Contact
 
 (https://www.linkedin.com/in/krzysztof-gizynski-735b1a107/)
