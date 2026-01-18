@@ -70,15 +70,22 @@ high-mimicry peptides were prioritised using **MHC class II binding prediction**
    (e.g. best score and mean score).
 4. Rank peptides by mimicry strength and predicted MHC-II score.
 
+### Key outputs
+
 ### Outputs
-- `results/mimicry_prioritized_mhc2.csv`
-- `results/deepmhcii/pred_*.tsv`
 
-### Visual summary
+- [results/mimicry_prioritized_mhc2.csv](results/mimicry_prioritized_mhc2.csv)
+- [results/deepmhcii/](results/deepmhcii/)
 
-![Mimicry vs MHC-II burden](results/figures/burden_mimicry_ge8_mhc2_ge0.35.png)
+## Visual summary
 
-![Cardiac mimicry (overall, ≥8/15)](results/figures/mimicry_overall_ge8.png)
+<p align="center">
+  <img src="results/figures/mimicry_overall_ge8.png" width="650">
+</p>
+
+<p align="center">
+  <img src="results/figures/burden_mimicry_ge8_mhc2_ge0.35.png" width="650">
+</p>
 
 ---
 
