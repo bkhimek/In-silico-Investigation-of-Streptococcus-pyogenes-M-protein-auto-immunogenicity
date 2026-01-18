@@ -80,11 +80,11 @@ high-mimicry peptides were prioritised using **MHC class II binding prediction**
 ## Visual summary
 
 <p align="center">
-  <img src="results/figures/burden_mimicry_ge8_mhc2_ge0.35.png" width="650">
+  <img src="results/figures/mimicry_overall_ge8.png" width="650">
 </p>
 
 <p align="center">
-  <img src="results/figures/mimicry_overall_ge8.png" width="650">
+  <img src="results/figures/burden_mimicry_ge8_mhc2_ge0.35.png" width="650">
 </p>
 
 ---
